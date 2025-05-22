@@ -94,7 +94,7 @@ Funções Principais
 Monitoramento de Processos:
 Mostra quais programas e processos estão em execução, quanto de CPU e memória estão a usar e se há algum com consumo excessivo. 
 
-fonte:www.secullum.com
+fonte: [www.secullum.com]
 
 
 
@@ -104,4 +104,4 @@ fonte:www.secullum.com
 Em sistemas operacionais Windows, o prompt de comando é um programa que emula o campo de entrada em uma tela de interface de usuário baseada em texto com a interface gráfica do usuário (IU) do Windows.
 Ele pode ser usado para executar comandos digitados e realizar funções administrativas avançadas. O prompt pode ser também usado para solucionar certos tipos de problemas do Windows.
 
-fonte:www.dell.com 
+fonte: [www.dell.com]
