@@ -1,42 +1,65 @@
 # Pesquisa Colaborativa - Github
 
-Grupo: [Nome do seu grupo]
+Grupo: Cross Code
 
 ## 1. Funções de um Sistema Operacional
 ---
 
-Autor: [Seu nome completo]
+Autor: Lucas Gabriel Foltran
 
 [Escreva a introdução]
 
 ### 1.1. Gerenciamento de processos
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+ ##Funções de um Sistema Operacional
+###Gerenciamento de processos
+O gerenciamento de processos em um sistema operacional é essencial para a operação eficiente de um computador, pois permite que múltiplos programas sejam executados de forma coordenada com o uso adequado dos recursos do sistema. O sistema operacional é responsável por criar, agendar, executar, comunicar e finalizar processos, isso garante que eles sejam executados de forma segura e sem interferência.
+
+[grancursosonline](https://blog.grancursosonline.com.br/sistemas-operacionais-gerenciamento-de-processos/)
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVWhZg2DhlKqdoUNAGmjVCabFQO_8dR7GHag&s)
 
 ### 1.2. Gerenciamento de arquivos
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+###O gerenciamento de arquivos em um sistema operacional é essencial para a organização, acesso e segurança das informações armazenadas em um computador. Envolve a criação, organização, acesso e manipulação de arquivos e diretórios, utilizando interfaces gráficas ou lineares de comando.
 
+[wikipedia](https://pt.wikipedia.org/wiki/Gerenciador_de_arquivos)
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDrahsqw-P3xAxGX83vSyp-fRx8mFAUZW5Q&s)
 
 ## 2. Sistemas de Arquivos
 ---
 
-Autor: [Seu nome completo]
+Autor: Lucas Gabriel Foltran
 
 [Escreva a introdução]
 
 ### 2.1. O que é um sistema de arquivos?
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+##Sistemas de Arquivos
+###O que é um sistema de arquivos?
+um sistema de arquivos é um estrutura organizada, usada por um sistema operacional, para gerenciar e organizar arquivos em um dispositivo de armazenamento, com um SSD. Ele define com os dados são armazenados, acessados e recuperados 
+
+[kingston](https://www.kingston.com/br/blog/personal-storage/understanding-file-systems)
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvluvp0J-Gp2xwURwlTKrBm6-NpUaAf8Sc2A&s)
 
 ### 2.2. Tipos de sistemas de arquivos: FAT32, NTFS, ext4
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+###Tipos de sistemas de arquivos: FAT32, NTFS, ext4
+Os principais tipos de sistemas de arquivo são: FAT32, NTFS, ext4, etc.
+Cada um deles possuem características específicas que os tornam mais adequados para diferentes tipos de armazenamento e sistemas operacionais
+**FAT:** É um dos sistemas de arquivos mais antigos e simples, usado em dispositivos removíveis como pen drives e cartões de memória. Possui duas versões principais: FAT16 e FAT32. 
+**NFTS:** É o sistema de arquivos padrão do Windows e oferece recursos como segurança, criptografia e recuperação de dados, de acordo com o Microsoft. 
+**ext4:** É um sistema de arquivos popular em sistemas Linux, oferecendo desempenho, confiabilidade e suporte a grandes volumes de dado. 
 
+[kingston](https://www.kingston.com/br/blog/personal-storage/understanding-file-systems)
+
+![](https://slideplayer.com.br/slide/8900095/26/images/4/Tipos+de+Sistemas+de+arquivos.jpg)
 
 ## 3. Gerenciamento de Dispositivos
 ---
