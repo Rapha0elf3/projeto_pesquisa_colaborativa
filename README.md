@@ -52,12 +52,12 @@ O sistema operacional atua como um intermediário entre o usuário e os hardware
 
 ![](https://img.freepik.com/vetores-gratis/acessorios-para-computador-e-icones-perifericos-pretos-conjunto-de-ilustracao-vetorial-isolada_1284-2744.jpg?semt=ais_hybrid&w=740)
 
-Fonte: [[Tutor Chase](https://www.tutorchase.com/answers/ib/computer-science/how-do-operating-systems-manage-peripheral-devices)]
+Fonte: [Tutor Chase](https://www.tutorchase.com/answers/ib/computer-science/how-do-operating-systems-manage-peripheral-devices)
 
 ### 3.2. O papel dos drivers de dispositivos
 ---
 
-Um driver de dispositivo atua como tradutor entre o sistema e o hardware, permitindo que aplicações usem comandos genéricos, como * "print"* (no caso de impressoras), sem precisar lidar com instruções específicas do dispositivo. Ele converte esses comandos em códigos de baixo nível compreendidos pelo hardware. O* driver* controla o dispositivo, enquanto o *drive* é o próprio equipamento, como um pen drive ou HD externo.
+Um driver de dispositivo atua como tradutor entre o sistema e o hardware, permitindo que aplicações usem comandos genéricos, como *"print"* (no caso de impressoras), sem precisar lidar com instruções específicas do dispositivo. Ele converte esses comandos em códigos de baixo nível compreendidos pelo hardware. O *driver* controla o dispositivo, enquanto o *drive* é o próprio equipamento, como um pen drive ou HD externo.
 
 ![](https://learn.microsoft.com/pt-br/windows-hardware/drivers/gettingstarted/images/whatisadriver02.png)
 
@@ -95,53 +95,65 @@ O Painel de Controle do Windows permite visualizar e alterar configurações do 
 
 ![](https://s2-techtudo.glbimg.com/_PwrPkjYh_A6XtlBbhFH_uh7pgk=/0x0:695x491/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/w/8/UQ4fhpQeCUW4aKkZ9llQ/2015-06-19-captura-de-tela-2015-06-13-as-202914.png)
 
-fonte: ![Tecnoblog](https://tecnoblog.net/responde/para-que-serve-o-painel-de-controle-do-windows/)
+fonte: [Tecnoblog](https://tecnoblog.net/responde/para-que-serve-o-painel-de-controle-do-windows/)
 
 ### 4.2. Ferramentas de acessibilidade
 ---
 
 **Recursos para a Visão**
-**Narrado**: Leitor de tela com vozes ajustáveis e compatível com dispositivos braille.
+**Narrado**
+Leitor de tela com vozes ajustáveis e compatível com dispositivos braille.
 
 
-**Controle de Cores**: Ajusta brilho, contraste e permite tema escuro.
+**Controle de Cores**
+Ajusta brilho, contraste e permite tema escuro.
 
 
-**Exibição e Visão**: Personaliza cursor, texto e cores. Inclui Lupa (zoom) e Filtro de Cores para daltonismo.
+**Exibição e Visão**
+Personaliza cursor, texto e cores. Inclui Lupa (zoom) e Filtro de Cores para daltonismo.
 
 
 **Recursos para a Audição**
-**Legendas ao Vivo**: Transcreve áudios em tempo real, inclusive em conversas.
+**Legendas ao Vivo**
+Transcreve áudios em tempo real, inclusive em conversas.
 
 
-**Legendas Personalizáveis**: Permite alterar fonte, cor e tamanho das legendas.
+**Legendas Personalizáveis**
+Permite alterar fonte, cor e tamanho das legendas.
 
 
-**Áudio Monocanal**: Converte som estéreo em canal único, útil para uso com um só fone.
+**Áudio Monocanal**
+Converte som estéreo em canal único, útil para uso com um só fone.
 
 
 **Recursos para a Mobilidade**
-**Acesso por Voz**: Controla o PC por comandos de voz.
+**Acesso por Voz**
+Controla o PC por comandos de voz.
 
 
-**Controle com os Olhos**: Navegação pelo olhar com rastreamento ocular.
+**Controle com os Olhos**
+Navegação pelo olhar com rastreamento ocular.
 
 
-**Digitação por Voz**: Converte fala em texto, com pontuação.
+**Digitação por Voz**
+Converte fala em texto, com pontuação.
 
 
-**Teclado Virtual**: Teclado na tela para uso com mouse ou outro apontador.
+**Teclado Virtual**
+Teclado na tela para uso com mouse ou outro apontador.
 
 
 **Leitura e Concentração**
-**Leitura Avançada**: Ajusta cor, espaçamento e zoom em textos do Edge e apps do Office.
+**Leitura Avançada**
+Ajusta cor, espaçamento e zoom em textos do Edge e apps do Office.
 
 
-**Sessão de Foco**: Ativa modo "não incomodar", silencia notificações e define pausas com temporizador.
+**Sessão de Foco**
+Ativa modo "não incomodar", silencia notificações e define pausas com temporizador.
 
 ![](https://cta.ifrs.edu.br/wp-content/uploads/sites/3/2023/03/Ferramentas-W11.png)
 
-fonte: ![CTA](https://cta.ifrs.edu.br/ferramentas-de-acessibilidade-no-windows-11/)
+fonte: [CTA](https://cta.ifrs.edu.br/ferramentas-de-acessibilidade-no-windows-11/)
 
 
 
