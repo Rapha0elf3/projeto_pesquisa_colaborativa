@@ -81,16 +81,27 @@ Autor: [Seu nome completo]
 ## 5. Ferramentas do Sistema
 ---
 
-Autor: [Seu nome completo]
+Autor: Cauã Cesar da silva santos
 
 [Escreva a introdução]
 
 ### 5.1. Gerenciador de Tarefas
 ---
+O Gerenciador de Tarefas tem como função a execução de atividades automatizadas do sistema, mesmo em casos que o software esteja fechado. Um exemplo da utilização é o Agendamento de Comunicação dos equipamentos, que permite coletar registros, enviar data e hora e lista de funcionários/pessoas em horários pré definidos. Também é utilizado para a integração entre os sistemas Acesso.Net e Ponto 4.
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+O monitor do sistema, seja em Linux ou macOS, é uma ferramenta que fornece informações sobre o desempenho do seu sistema operacional, incluindo recursos como CPU, memória, disco e rede. Permite que você veja como seus processos e aplicativos estão utilizando esses recursos e identificar potenciais gargalos ou problemas de desempenho. 
+Funções Principais    
+Monitoramento de Processos:
+Mostra quais programas e processos estão em execução, quanto de CPU e memória estão a usar e se há algum com consumo excessivo. 
+
+fonte:www.secullum.com
+
+
 
 ### 5.2. Prompt de Comando / Terminal
 ---
 
-[Escreva aqui sua explicação. Use listas, destaques, imagens e links se quiser.]
+Em sistemas operacionais Windows, o prompt de comando é um programa que emula o campo de entrada em uma tela de interface de usuário baseada em texto com a interface gráfica do usuário (IU) do Windows.
+Ele pode ser usado para executar comandos digitados e realizar funções administrativas avançadas. O prompt pode ser também usado para solucionar certos tipos de problemas do Windows.
+
+fonte:www.dell.com 
