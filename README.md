@@ -196,7 +196,9 @@ Funções Principais
 Monitoramento de Processos:
 Mostra quais programas e processos estão em execução, quanto de CPU e memória estão a usar e se há algum com consumo excessivo. 
 
-fonte: [www.secullum.com]
+![](https://s2-techtudo.glbimg.com/eQXZSoc_LwMEmjqVmYdoUs2u_5E=/0x0:695x520/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/A/L/YwbywBRY6FIvcauLApTw/2017-02-13-gerenciador-tarefas-02.jpg)
+
+fonte: [secullum](www.secullum.com)
 
 
 
@@ -206,4 +208,6 @@ fonte: [www.secullum.com]
 Em sistemas operacionais Windows, o prompt de comando é um programa que emula o campo de entrada em uma tela de interface de usuário baseada em texto com a interface gráfica do usuário (IU) do Windows.
 Ele pode ser usado para executar comandos digitados e realizar funções administrativas avançadas. O prompt pode ser também usado para solucionar certos tipos de problemas do Windows.
 
-fonte: [www.dell.com]
+![](https://supportkb.dell.com/img/ka0Do000000Dt7RIAS/ka0Do000000Dt7RIAS_pt_BR_3.jpeg)
+
+fonte: [dell](www.dell.com)
